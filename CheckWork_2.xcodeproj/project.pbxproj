@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6388ED23275B74490093D8BE /* heart.png in Resources */ = {isa = PBXBuildFile; fileRef = 6388ED22275B74490093D8BE /* heart.png */; };
 		638EEF58275B70B30093F8D0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638EEF57275B70B30093F8D0 /* AppDelegate.swift */; };
 		638EEF5A275B70B30093F8D0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638EEF59275B70B30093F8D0 /* SceneDelegate.swift */; };
 		638EEF5C275B70B30093F8D0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638EEF5B275B70B30093F8D0 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6388ED22275B74490093D8BE /* heart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = heart.png; sourceTree = SOURCE_ROOT; };
 		638EEF54275B70B30093F8D0 /* CheckWork_2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CheckWork_2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		638EEF57275B70B30093F8D0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		638EEF59275B70B30093F8D0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				638EEF59275B70B30093F8D0 /* SceneDelegate.swift */,
 				638EEF5B275B70B30093F8D0 /* ViewController.swift */,
 				638EEF5D275B70B30093F8D0 /* Main.storyboard */,
+				6388ED22275B74490093D8BE /* heart.png */,
 				638EEF60275B70B50093F8D0 /* Assets.xcassets */,
 				638EEF62275B70B50093F8D0 /* LaunchScreen.storyboard */,
 				638EEF65275B70B50093F8D0 /* Info.plist */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6388ED23275B74490093D8BE /* heart.png in Resources */,
 				638EEF64275B70B50093F8D0 /* LaunchScreen.storyboard in Resources */,
 				638EEF61275B70B50093F8D0 /* Assets.xcassets in Resources */,
 				638EEF5F275B70B30093F8D0 /* Main.storyboard in Resources */,
